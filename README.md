@@ -10,5 +10,19 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 The objective of this project is to predict the housing prices for the test set. As this is a competition, the goal is also to achieve higher acuracy and thus obtaining a good rank.
 
 # Steps
-1. Import the training and test dataset
-2. 
+1. Make necessary changes in code for Google Colab usage
+2. Import the training and test dataset
+3. Merge the test and training datasets
+4. Perform Feature Engineering
+5. Expolre and analyze data and outliers
+6. Outliers Treatment
+7. Machine Learning Model Building :
+   a. Cross-Validation
+   b. Hyper-parameter Tuning
+   c. Linear Regressions
+   c. SVM
+   d. Decion Tree Regressor
+   e. Random Forest Regressor
+8. Deep Learning : Building ANN
+9. Choose the best model
+   
