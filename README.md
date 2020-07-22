@@ -17,7 +17,7 @@ The objective of this project is to predict the housing prices for the test set.
 5. Expolre and analyze data and outliers
 6. Outliers Treatment
 7. Machine Learning Model Building :
-⋅⋅1. Ordered sub-list
+   1. Ordered sub-list
    Cross-Validation
    . Hyper-parameter Tuning
    . Linear Regressions
