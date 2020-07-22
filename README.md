@@ -18,8 +18,8 @@ The objective of this project is to predict the housing prices for the test set.
 6. Outliers Treatment
 7. Machine Learning Model Building :
    1. Ordered sub-list
-   Cross-Validation
-   . Hyper-parameter Tuning
+   2. Cross-Validation
+   3. Hyper-parameter Tuning
    . Linear Regressions
    . SVM
    . Decion Tree Regressor
