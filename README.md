@@ -9,7 +9,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 # Objective
 The objective of this project is to predict the housing prices for the test set. As this is a competition, the goal is also to achieve higher acuracy and thus obtaining a good rank.
-
 # Steps
 1. Make necessary changes in code for Google Colab usage
 2. Import the training and test dataset
@@ -27,5 +26,7 @@ The objective of this project is to predict the housing prices for the test set.
    7. Random Forest Regressor
 8. Deep Learning : Building ANN
 9. Choose the best model
+
+![](https://github.com/rachitj/Housing-Prices-Prediction/blob/master/housingPrices_corelation.png)
    
 Credits ans Sources : Kaggle, Krish Naik
