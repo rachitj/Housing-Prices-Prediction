@@ -29,4 +29,4 @@ The objective of this project is to predict the housing prices for the test set.
 
 ![](https://github.com/rachitj/Housing-Prices-Prediction/blob/master/housingPrices_corelation.png)
    
-Credits ans Sources : Kaggle, Krish Naik
+* Credits and Sources : Kaggle, Krish Naik
