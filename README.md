@@ -22,7 +22,7 @@ The objective of this project is to predict the housing prices for the test set.
    3. Hyper-parameter Tuning
    4. Linear Regressions
    5. SVM
-   6. Decion Tree Regressor
+   6. Decision Tree Regressor
    7. Random Forest Regressor
 8. Deep Learning : Building ANN
 9. Choose the best model
